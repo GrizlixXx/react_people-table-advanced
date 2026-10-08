@@ -30,3 +30,4 @@ implement the ability to filter and sort people in the table.
 - Use the [React TypeScript cheat sheet](https://mate-academy.github.io/fe-program/js/extra/react-typescript).
 - Open one more terminal and run tests with `npm test` to ensure your solution is correct.
 - Replace `<your_account>` with your Github username in the [DEMO LINK](https://GrizlixXx.github.io/react_people-table-advanced/) and add it to the PR description.
+  Demo is work now
